@@ -1,5 +1,3 @@
-[![Build Status](https://sdmlprojects.visualstudio.com/Sample Python App/_apis/build/status/Sample%20Python%20App-CI?branchName=master)](https://sdmlprojects.visualstudio.com/Sample Python App/_build/latest?definitionId=3&branchName=master)
-
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
